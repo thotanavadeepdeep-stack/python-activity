@@ -23,7 +23,7 @@
 ## Output Screenshots
 
 ### Output 1
-![Output 1](vi.jpeg)
+(vi.jpeg.png
 
 ### Output 2
 ![Output 2](vi2.jpeg)
