@@ -25,8 +25,9 @@
 ### 📄 Assignment Document
 
 The complete Python Programming assignment includes 10 case studies with algorithms, flowcharts, pseudocode, Python source code, and sample test cases.
+### Assignment Document
 
-[📥 Download Python Case Studies (word docu.docx)](word docu.docx)
+[Download Python Case Studies (Word Document)](./Python_Case_Studies.docx)
 ### Contents
 - 10 Python Case Studies
 - Algorithms
