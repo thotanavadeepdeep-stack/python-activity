@@ -3,7 +3,7 @@
 **Student Name:** T. Navadeep  
 **Branch:** CSE (AI & ML)  
 **Year:** First Year B.Tech  
-**Section:** [Your Section]  
+**Section:** 06
 **Academic Year:** 2026–2027  
 
 ## Python Programs and Outputs
