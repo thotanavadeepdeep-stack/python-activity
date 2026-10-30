@@ -21,6 +21,20 @@
 | 9 | [main9.py](./main9.py) | ![Output 9](./vi9.jpeg.png) |
 | 10 | [main10.py](./main10.py) | ![Output 10](./vi10.jpeg.png) |
 
+
+### 📄 Assignment Document
+
+The complete Python Programming assignment includes 10 case studies with algorithms, flowcharts, pseudocode, Python source code, and sample test cases.
+
+[📥 Download Python Case Studies (word docu)](Python%20Case%20Studies.docx)
+### Contents
+- 10 Python Case Studies
+- Algorithms
+- Flowcharts
+- Pseudocode
+- Python Programs
+- Sample Test Cases
+
 ## Conclusion
 
 This project helped me understand and practice Python programming concepts through activity-based learning.
