@@ -3,9 +3,9 @@
 **Student Name:** T. Navadeep  
 **Branch:** CSE (AI & ML)  
 **Year:** First Year B.Tech  
-**Section:** 06  
+**Section:** 06
 **Subject:** Python Programming  
-**Academic Year:** 2026–2030  
+**Academic Year:** 2026–2027  
 
 ## Python Source Codes
 
@@ -23,34 +23,34 @@
 ## Output Screenshots
 
 ### Output 1
-![Output 1](output1.jpeg.png)
+![Output 1](vi.jpeg)
 
 ### Output 2
-![Output 2](output2.jpeg.png)
+![Output 2](vi2.jpeg)
 
 ### Output 3
-![Output 3](output3.jpeg.png)
+![Output 3](vi3.jpeg)
 
 ### Output 4
-![Output 4](output4.jpeg.png)
+![Output 4](vi4.jpeg)
 
 ### Output 5
-![Output 5](output5.jpeg.png)
+![Output 5](vi5.jpeg)
 
 ### Output 6
-![Output 6](output6.jpeg.png)
+![Output 6](vi6.jpeg)
 
 ### Output 7
-![Output 7](output7.jpeg.png)
+![Output 7](vi7.jpeg)
 
 ### Output 8
-![Output 8](output8.jpeg.png)
+![Output 8](vi8.jpeg)
 
 ### Output 9
-![Output 9](output9.jpeg.png)
+![Output 9](vi9.jpeg)
 
 ### Output 10
-![Output 10](output10.jpeg.png)
+![Output 10](vi10.jpeg)
 
 ## Conclusion
 
